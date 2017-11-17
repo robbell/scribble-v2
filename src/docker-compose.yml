@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  scribble:
+    image: scribble
+    build:
+      context: .
+      dockerfile: Scribble\Dockerfile
