@@ -1,8 +1,9 @@
 using FluentAssertions;
+using Scribble.Tests.FakesAndSpies;
 using Scribble.Web.Models;
 using Xunit;
 
-namespace Scribble.Tests
+namespace Scribble.Tests.UnitTests
 {
     public class PostRepositoryShould
     {

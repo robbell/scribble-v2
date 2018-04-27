@@ -1,7 +1,6 @@
-using Scribble.Web;
 using Scribble.Web.Models;
 
-namespace Scribble.Tests
+namespace Scribble.Tests.FakesAndSpies
 {
     public class FakeMarkdownConverter : IMarkdownConverter
     {
