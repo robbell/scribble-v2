@@ -1,5 +1,6 @@
 ﻿using FluentAssertions;
 using Octokit;
+using Scribble.Web.Domain;
 using Xunit;
 
 namespace Scribble.Tests.ContractTests

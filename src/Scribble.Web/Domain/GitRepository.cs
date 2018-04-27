@@ -1,8 +1,7 @@
 ﻿using System.Linq;
 using Octokit;
-using Scribble.Web.Domain;
 
-namespace Scribble.Tests.ContractTests
+namespace Scribble.Web.Domain
 {
     public class GitRepository : IGitRepository
     {
