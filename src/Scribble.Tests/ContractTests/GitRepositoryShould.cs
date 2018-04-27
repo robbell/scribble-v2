@@ -6,7 +6,7 @@ namespace Scribble.Tests.ContractTests
 {
     public class GitRepositoryShould
     {
-        [Fact]
+        [Fact, Trait("Category", "Integration")]
         public void GetRawMarkdownFromGitHub()
         {
             var client = new GitHubClient(new ProductHeaderValue("my-cool-app"))
