@@ -1,4 +1,6 @@
-namespace Scribble.Web.Models
+using Scribble.Web.Models;
+
+namespace Scribble.Web.Domain
 {
     public class PostRepository
     {

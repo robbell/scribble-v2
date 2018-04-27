@@ -1,5 +1,6 @@
 using FluentAssertions;
 using Scribble.Tests.FakesAndSpies;
+using Scribble.Web.Domain;
 using Scribble.Web.Models;
 using Xunit;
 

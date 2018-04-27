@@ -1,4 +1,4 @@
-using Scribble.Web.Models;
+using Scribble.Web.Domain;
 
 namespace Scribble.Tests.FakesAndSpies
 {
